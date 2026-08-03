@@ -7,7 +7,7 @@ on:
         description: "Kernel source repo URL (msm-kernel). Paste any git URL here to override the default."
         required: true
         type: string
-        default: "https://github.com/kingD2N/kernel_source_Melt_xiaomi_ingres"
+        default: "https://github.com/kingD2NN/android_kernel_xiaomi_ingres_-_marble/tree/bouquet_ci"
 
       kernel_branch:
         description: "Branch on kernel_source above (independent from modules/devicetree branches below)"
